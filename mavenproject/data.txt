@@ -1,0 +1,4 @@
+Read a file in java 
+line 2
+line 3
+line 4
